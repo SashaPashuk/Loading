@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 52px;
+}
+
+wrapper-card{
+display: flex;
+justify-content: space-between;
+
+}
+
+.card {
+  width: 25%;
+  margin: 20px 35px;
+  display: inline-block;
+  border: solid 2px #5467;
+}
+.card:hover {
+    cursor: pointer;
+    box-shadow: 3px 4px 5px #344765;
+}
+
+h4 {
+    color: brown;
+}

@@ -1,0 +1,18 @@
+.text-white{
+    text-decoration: none;
+    display: flex;
+    font-size: 35px;
+    font-weight: 700;
+  }
+  
+  ul.navbarItem li {
+    margin-right: 45px;
+  }
+  
+  .navbarItem{
+    display: flex;
+    text-decoration: none;
+    margin-right: 35px;
+    justify-content: center;
+    list-style-type: none;
+  }

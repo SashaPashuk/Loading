@@ -1,0 +1,21 @@
+.login-card{
+    width: 300px;
+    top: 150px;
+    padding: 20px;
+}
+
+.line{
+    width: 250px;
+}
+
+.pass{
+    margin-top: 10px;
+}
+
+.loginBtn{
+    margin-top: 30px;
+    width: 150px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
