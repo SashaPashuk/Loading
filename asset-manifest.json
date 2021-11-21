@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/assembly_react/static/css/main.c3f0095c.chunk.css",
-    "main.js": "/assembly_react/static/js/main.ddad70ae.chunk.js",
-    "main.js.map": "/assembly_react/static/js/main.ddad70ae.chunk.js.map",
-    "runtime-main.js": "/assembly_react/static/js/runtime-main.13b73122.js",
-    "runtime-main.js.map": "/assembly_react/static/js/runtime-main.13b73122.js.map",
-    "static/js/2.0efb1fc6.chunk.js": "/assembly_react/static/js/2.0efb1fc6.chunk.js",
-    "static/js/2.0efb1fc6.chunk.js.map": "/assembly_react/static/js/2.0efb1fc6.chunk.js.map",
-    "index.html": "/assembly_react/index.html",
-    "static/css/main.c3f0095c.chunk.css.map": "/assembly_react/static/css/main.c3f0095c.chunk.css.map",
-    "static/js/2.0efb1fc6.chunk.js.LICENSE.txt": "/assembly_react/static/js/2.0efb1fc6.chunk.js.LICENSE.txt"
+    "main.css": "/Login/static/css/main.989b8594.chunk.css",
+    "main.js": "/Login/static/js/main.82dccb35.chunk.js",
+    "main.js.map": "/Login/static/js/main.82dccb35.chunk.js.map",
+    "runtime-main.js": "/Login/static/js/runtime-main.1b21ef67.js",
+    "runtime-main.js.map": "/Login/static/js/runtime-main.1b21ef67.js.map",
+    "static/js/2.37487325.chunk.js": "/Login/static/js/2.37487325.chunk.js",
+    "static/js/2.37487325.chunk.js.map": "/Login/static/js/2.37487325.chunk.js.map",
+    "index.html": "/Login/index.html",
+    "static/css/main.989b8594.chunk.css.map": "/Login/static/css/main.989b8594.chunk.css.map",
+    "static/js/2.37487325.chunk.js.LICENSE.txt": "/Login/static/js/2.37487325.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.13b73122.js",
-    "static/js/2.0efb1fc6.chunk.js",
-    "static/css/main.c3f0095c.chunk.css",
-    "static/js/main.ddad70ae.chunk.js"
+    "static/js/runtime-main.1b21ef67.js",
+    "static/js/2.37487325.chunk.js",
+    "static/css/main.989b8594.chunk.css",
+    "static/js/main.82dccb35.chunk.js"
   ]
 }
